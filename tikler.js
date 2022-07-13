@@ -1,1 +1,1 @@
-["enesc3tinpriw","aslogpml"]
+["enesc3tinpriw","aslogw","aslogpml","bozkurt.hazarr","bozkurt.hazarr"]
